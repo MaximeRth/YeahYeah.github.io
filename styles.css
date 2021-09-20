@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(108, 129, 124, 0.836);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 20px;
+}
+
+article{
+    margin: 20px;
+    background: white;
+    border: 1px solid #ccc;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    margin: 10px;
+}
